@@ -12,7 +12,7 @@ u.update = function ()
     -- body
 end
 u.draw = function ()
-    love.graphics.print("hi", 200, 200, 0, 4)
+    love.graphics.print("hello, world", 200, 200)
 end
 
 --
